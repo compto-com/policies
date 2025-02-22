@@ -1,9 +1,9 @@
 | **Policy Name**       | Anti-Money Laundering (AML) Policy |
 | --------------------- | ---------------------------------- |
 | **Responsible Party** | David Trost                        |
-| **Contact**           | support@compto.com                 |
-| **Status**            | Approved                           |
-| **Effective Date**    | February 2025                      |
+| **Contact**           | [support@compto.com][0]            |
+| **Status**            | Under Review                       |
+| **Effective Date**    | March 1, 2025                      |
 | **Revision Date**     | February 2025                      |
 
 # Compto Public Benefit Corporation Anti-Money Laundering (AML) Program: Compliance and Supervisory Procedures
@@ -66,8 +66,6 @@ Key components of the AML Policy include:
 3.  Know Your Customer ("KYC")
 4.  Monitoring Accounts and Reporting Suspicious Activity
 
-<!-- -->
-
 ## 2. AML Compliance Officer Designation and Duties
 
 The firm designates David Trost as its Anti-Money Laundering Program
@@ -104,7 +102,7 @@ suspect during the preceding 12 months, and transactions conducted by or
 on behalf of or with a named subject during the preceding six months. If
 we find a match, we will report it to FinCEN by completing FinCEN's
 subject information form. This form can be sent to FinCEN by electronic
-mail at <sys314a@fincen.treas.gov>, or by facsimile transmission to
+mail at [sys314a@fincen.treas.gov][1], or by facsimile transmission to
 703-905-3660. If the search parameters differ from those mentioned above
 (for example, if FinCEN requests longer periods of time or limits the
 search to a geographic location), we will limit our search accordingly.
@@ -127,7 +125,7 @@ to determine whether to establish or maintain an account, or to engage
 in a transaction; or (3) to assist the firm in complying with any
 requirement of Section 314 of the PATRIOT Act.
 
-### b. Sharing Information With Other Financial Institutions
+### b. Sharing Information with Other Financial Institutions
 
 We will share information about those suspected of terrorist financing
 and money laundering with other financial institutions for the purposes
@@ -135,9 +133,9 @@ of identifying and reporting activities that may involve terrorist acts
 or money laundering activities and to determine whether to establish or
 maintain an account or engage in a transaction. We will file with FinCEN
 an initial notice before any sharing occurs and annual notices
-afterwards. We will use the notice form found at www.fincen.gov. Before
-we share information with another financial institution, we will take
-reasonable steps to verify that the other financial institution has
+afterwards. We will use the notice form found at [www.fincen.gov][2].
+Before we share information with another financial institution, we will
+take reasonable steps to verify that the other financial institution has
 submitted the requisite notice to FinCEN, either by obtaining
 confirmation from the financial institution or by consulting a list of
 such financial institutions that FinCEN will make available. We
@@ -156,9 +154,9 @@ reasonable extent.
 Before opening an account, and on an ongoing basis, we will check to
 ensure that a customer does not appear on Treasury's OFAC "Specifically
 Designated Nationals and Blocked Persons" List (SDN List) (See the OFAC
-Web Site at <www.treas.gov/ofac>, which is also available through an
-automated search tool on <www.nasdr.com/money.asp> ), and is not from, or
-engaging in transactions with people or entities from, embargoed
+Web Site at [www.treas.gov/ofac][3], which is also available through an
+automated search tool on [www.nasdr.com/money.asp][4] ), and is not from,
+or engaging in transactions with people or entities from, embargoed
 countries and regions listed on the OFAC Web Site. Because the OFAC Web
 Site is updated frequently, we will consult the list on a regular basis
 and subscribe to receive updates when they occur. We may access these
@@ -211,7 +209,7 @@ not have an identification number, we will request alternative
 government-issued documentation certifying the existence of the business
 or enterprise.
 
-### b. Customers Who Refuse To Provide Information
+### b. Customers Who Refuse to Provide Information
 
 If a potential or existing customer either refuses to provide the
 information described above when requested, or appears to have
@@ -291,9 +289,9 @@ requested transactions, we may refuse to complete a transaction before
 we have verified the information, or in some instances when we need more
 time, we may, pending verification, restrict the types of transactions
 or dollar amount of transactions. If we find suspicious information that
-9 indicates possible money laundering or terrorist financing activity,
-we will, after internal consultation with the firm's AML compliance
-officer, file a SAR-SF in accordance with applicable law and regulation.
+indicates possible money laundering or terrorist financing activity, we
+will, after internal consultation with the firm's AML compliance officer,
+file a SAR-SF in accordance with applicable law and regulation.
 
 We recognize that the risk that we may not know the customer's true
 identity may be heightened for certain types of accounts, such as an
@@ -498,7 +496,7 @@ patterns or conditions indicative of such accounts. If any attempt is
 detected, the account opening process is immediately halted, and senior
 management is notified.
 
-## 8. Monitoring Accounts For Suspicious Activity
+## 8. Monitoring Accounts for Suspicious Activity
 
 We will manually monitor a sufficient amount of account activity to
 permit identification of patterns of unusual size, volume, pattern or
@@ -679,7 +677,7 @@ hide or disguise funds or assets derived from illegal activity as part
 of a plan to violate or evade federal law or regulation or to avoid any
 transaction reporting requirement under federal law or regulation, 2)
 the transaction is designed, whether through structuring or otherwise,
-to evade the any requirements of the BSA regulations, 3) the transaction
+to evade any requirements of the BSA regulations, 3) the transaction
 has no business or apparent lawful purpose or is not the sort in which
 the customer would normally be expected to engage, and we know, after
 examining the background, possible purpose of the transaction and other
@@ -822,8 +820,8 @@ CTRs, CMIRs, FBARs, and relevant documentation on customer identity and
 verification (See Section 5 above) and funds transfers and transmittals
 as well as any records related to customers listed on the OFAC list. We
 will maintain SAR-SFs and their accompanying documentation for at least
-five years. We will keep other documents 23 according to existing BSA
-and other record keeping requirements, including certain SEC rules that
+five years. We will keep other documents according to existing BSA and
+other record keeping requirements, including certain SEC rules that
 require six-year retention.
 
 ## 11. Clearing/Introducing Firm Relationships
@@ -907,4 +905,20 @@ I have approved this AML program as reasonably designed to achieve and
 monitor our firm's ongoing compliance with the requirements of the AML
 Laws
 
-Signed:
+> Signed:  
+> Name:  
+> Title:  
+> Date:
+
+[0]: mailto:support@compto.com "mailto:support@compto.com"
+[1]: mailto:sys314a@fincen.treas.gov "mailto:sys314a@fincen.treas.gov"
+[2]: www.fincen.gov "www.fincen.gov"
+[3]: www.treas.gov/ofac "www.treas.gov/ofac"
+[4]: www.nasdr.com/money.asp "www.nasdr.com/money.asp"
+
+## Revisions
+
+| **Revision** | **Revision Date** | **Description of Changes**             | **Approved By** |
+| ------------ | ----------------- | -------------------------------------- | --------------- |
+| v1.0         | January 2025      | Initial Release                        | David Trost     |
+| v1.1         | February 2025     | Switch to md, fix typos, add revisions |                 |
