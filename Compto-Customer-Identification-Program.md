@@ -6,7 +6,7 @@
 | **Effective Date**    | March 1, 2025                         |
 | **Revision Date**     | February 2025                         |
 
-# Compto Public Benefit Corporation <br/> Customer Identification Program (CIP): <br/> Compliance and Supervisory Procedures
+# Compto Public Benefit Corporation Customer Identification Program (CIP): Compliance and Supervisory Procedures
 
 ## 1. Introduction and Purpose
 
