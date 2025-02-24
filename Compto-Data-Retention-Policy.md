@@ -3,7 +3,7 @@
 | **Responsible Party** | David Trost                        |
 | **Contact**           | [privacy@compto.com][0]            |
 | **Status**            | Under Review                       |
-| **Effective Date**    | March 1, 2025                      |
+| **Effective Date**    |                                    |
 | **Revision Date**     | February 2025                      |
 
 # Compto Public Benefit Corporation Data Retention and Deletion Policy: Compliance and Supervisory Procedures

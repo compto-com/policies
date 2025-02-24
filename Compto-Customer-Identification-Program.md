@@ -3,7 +3,7 @@
 | **Responsible Party** | David Trost                           |
 | **Contact**           | [support@compto.com][0]               |
 | **Status**            | Under Review                          |
-| **Effective Date**    | March 1, 2025                         |
+| **Effective Date**    |                                       |
 | **Revision Date**     | February 2025                         |
 
 # Compto Public Benefit Corporation Customer Identification Program (CIP): Compliance and Supervisory Procedures
