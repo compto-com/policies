@@ -9,7 +9,7 @@ MD_FILES = \
 	Compto-Privacy-Policy.md \
 	Compto-Production-Asset-Management-Policy.md \
 	Compto-Security-Incident-Response-Process.md \
-	Compto-Terms-of-Service.md \
+	Compto-User-Agreement.md \
 #
 PDF_FILES = $(patsubst %.md,%.pdf,$(MD_FILES))
 
