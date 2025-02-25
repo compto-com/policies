@@ -918,7 +918,7 @@ Laws
 
 ## Revisions
 
-| **Revision** | **Revision Date** | **Effective Date** | **Description of Changes**             | **Approved By** |
-| ------------ | ----------------- | ------------------ | -------------------------------------- | --------------- |
-| v1.0         | January 2025      | January 2025       | Initial Release                        | David Trost     |
-| v1.1         | February 2025     |                    | Switch to md, fix typos, add revisions |                 |
+| **Revision** | **Revision Date** | **Effective Date** | **Description of Changes**                 | **Approved By** |
+| ------------ | ----------------- | ------------------ | ------------------------------------------ | --------------- |
+| v1.0         | January 2025      | January 2025       | Initial Release                            | David Trost     |
+| v1.1         | February 2025     |                    | - Switch to md - fix typos - add revisions |                 |
