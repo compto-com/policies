@@ -4,5 +4,8 @@ geometry:
 output: pdf_document
 fontfamily: times
 fontsize: 12pt
+colorlinks: true
+linkcolor: blue
+toccolor: gray
 ---
 

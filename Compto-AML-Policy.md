@@ -133,7 +133,7 @@ of identifying and reporting activities that may involve terrorist acts
 or money laundering activities and to determine whether to establish or
 maintain an account or engage in a transaction. We will file with FinCEN
 an initial notice before any sharing occurs and annual notices
-afterwards. We will use the notice form found at [www.fincen.gov][2].
+afterwards. We will use the notice form found at [https://www.fincen.gov][2].
 Before we share information with another financial institution, we will
 take reasonable steps to verify that the other financial institution has
 submitted the requisite notice to FinCEN, either by obtaining
@@ -154,15 +154,16 @@ reasonable extent.
 Before opening an account, and on an ongoing basis, we will check to
 ensure that a customer does not appear on Treasury's OFAC "Specifically
 Designated Nationals and Blocked Persons" List (SDN List) (See the OFAC
-Web Site at [www.treas.gov/ofac][3], which is also available through an
-automated search tool on [www.nasdr.com/money.asp][4] ), and is not from,
-or engaging in transactions with people or entities from, embargoed
-countries and regions listed on the OFAC Web Site. Because the OFAC Web
-Site is updated frequently, we will consult the list on a regular basis
-and subscribe to receive updates when they occur. We may access these
-lists through various software programs to ensure speed and accuracy. We
-will also review existing accounts against these lists when they are
-updated and we will document our review.
+Web Site at [https://ofac.treasury.gov][3], which is also available
+through an automated search tool on
+[https://sanctionssearch.ofac.treas.gov/][4]), and is not from, or
+engaging in transactions with people or entities from, embargoed countries
+and regions listed on the OFAC Web Site. Because the OFAC Web Site is
+updated frequently, we will consult the list on a regular basis and
+subscribe to receive updates when they occur. We may access these lists
+through various software programs to ensure speed and accuracy. We will
+also review existing accounts against these lists when they are updated
+and we will document our review.
 
 In the event that we determine a customer, or someone with or for whom
 the customer is transacting, is on the SDN List or is from or engaging
@@ -912,9 +913,9 @@ Laws
 
 [0]: mailto:support@compto.com "mailto:support@compto.com"
 [1]: mailto:sys314a@fincen.treas.gov "mailto:sys314a@fincen.treas.gov"
-[2]: www.fincen.gov "www.fincen.gov"
-[3]: www.treas.gov/ofac "www.treas.gov/ofac"
-[4]: www.nasdr.com/money.asp "www.nasdr.com/money.asp"
+[2]: https://www.fincen.gov "https://www.fincen.gov"
+[3]: https://ofac.treasury.gov "https://ofac.treasury.gov"
+[4]: https://sanctionssearch.ofac.treas.gov/ "https://sanctionssearch.ofac.treas.gov/"
 
 ## Revisions
 
