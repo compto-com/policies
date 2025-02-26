@@ -6,10 +6,8 @@ MD_FILES = \
 	Compto-Customer-Identification-Program.md \
 	Compto-Data-Retention-Policy.md \
 	Compto-Information-Security-Policy.md \
-	Compto-Privacy-Policy.md \
 	Compto-Production-Asset-Management-Policy.md \
 	Compto-Security-Incident-Response-Process.md \
-	Compto-User-Agreement.md \
 #
 PDF_FILES = $(patsubst %.md,%.pdf,$(MD_FILES))
 
