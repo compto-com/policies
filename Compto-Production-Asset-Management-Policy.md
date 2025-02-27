@@ -1,9 +1,9 @@
 | **Policy Name**       | Production Access Management Policy |
 | --------------------- | ----------------------------------- |
-| **Responsible Party** | David Trost                         |
+| **Responsible Party** | Connor Funk                         |
 | **Contact**           | [security@compto.com][0]            |
-| **Status**            | Under Review                        |
-| **Effective Date**    |                                     |
+| **Status**            | Approved                            |
+| **Effective Date**    | March 1, 2025                       |
 | **Revision Date**     | February 2025                       |
 
 # Compto Public Benefit Corporation Production Access Management Program: Compliance and Supervisory Procedures
@@ -147,10 +147,11 @@ I have approved this Production Asset Management Policy as reasonably
 designed to achieve and monitor our firm's ongoing compliance with the
 requirements of Production Asset Management standards and regulations.
 
-> Signed:  
-> Name:  
-> Title:  
-> Date:
+> Signed:
+>
+> Name: Connor Funk  
+> Title: Chief Security Officer  
+> Date: February 26, 2025
 
 [0]: mailto:security@compto.com "mailto:security@compto.com"
 
@@ -159,4 +160,4 @@ requirements of Production Asset Management standards and regulations.
 | **Revision** | **Revision Date** | **Effective Date** | **Description of Changes**     | **Approved By** |
 | ------------ | ----------------- | ------------------ | ------------------------------ | --------------- |
 | v1.0         | January 2025      | January 2025       | - Initial Release              | David Trost     |
-| v1.1         | February 2025     |                    | - Switch to md - add revisions |                 |
+| v1.1         | February 2025     | March 1, 2025      | - Switch to md - add revisions | Connor Funk     |

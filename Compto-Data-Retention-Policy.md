@@ -1,9 +1,9 @@
 | **Policy Name**       | Data Retention and Deletion Policy |
 | --------------------- | ---------------------------------- |
-| **Responsible Party** | David Trost                        |
+| **Responsible Party** | Connor Funk                        |
 | **Contact**           | [privacy@compto.com][0]            |
-| **Status**            | Under Review                       |
-| **Effective Date**    |                                    |
+| **Status**            | Approved                           |
+| **Effective Date**    | March 1, 2025                      |
 | **Revision Date**     | February 2025                      |
 
 # Compto Public Benefit Corporation Data Retention and Deletion Policy: Compliance and Supervisory Procedures
@@ -242,7 +242,7 @@ the date they come into effect.
 | **Revision** | **Revision Date** | **Effective Date** | **Description of Changes**                    | **Approved By** |
 | ------------ | ----------------- | ------------------ | --------------------------------------------- | --------------- |
 | v1.0         | January 2025      | January 2025       | - Initial Release                             | David Trost     |
-| v1.1         | February 2025     |                    | - Switch to md - add revisions - fix approval |                 |
+| v1.1         | February 2025     | March 1, 2025      | - Switch to md - add revisions - fix approval | Connor Funk     |
 
 ## 12. Senior Manager Approval
 
@@ -250,9 +250,10 @@ I have approved this Data Retention Policy as reasonably designed to
 achieve and monitor our firm's ongoing compliance with the requirements
 of data retention standards and regulations.
 
-> Signed:  
-> Name:  
-> Title:  
-> Date:
+> Signed:
+>
+> Name: Connor Funk  
+> Title: Chief Security Officer  
+> Date: February 26, 2025
 
 [0]: mailto:privacy@compto.com "mailto:privacy@compto.com"
