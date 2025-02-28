@@ -2,8 +2,8 @@
 | --------------------- | ------------------------------------- |
 | **Responsible Party** | David Trost                           |
 | **Contact**           | [support@compto.com][0]               |
-| **Status**            | Under Review                          |
-| **Effective Date**    |                                       |
+| **Status**            | Approved                              |
+| **Effective Date**    | March 1, 2025                         |
 | **Revision Date**     | February 2025                         |
 
 # Compto Public Benefit Corporation Customer Identification Program (CIP): Compliance and Supervisory Procedures
@@ -300,8 +300,9 @@ and monitor Compto Public Benefit Corporation's compliance with the
 identification and verification requirements under the AML Laws.
 
 > Signed:
-> Name: David Trost
-> Title: AML Compliance Officer
+>
+> Name: David Trost  
+> Title: AML Compliance Officer  
 > Date:
 
 [0]: mailto:support@compto.com "mailto:support@compto.com"
@@ -311,7 +312,7 @@ identification and verification requirements under the AML Laws.
 | **Revision** | **Revision Date** | **Effective Date** | **Description of Changes**     | **Approved By** |
 | ------------ | ----------------- | ------------------ | ------------------------------ | --------------- |
 | v1.0         | January 2025      | January 2025       | - Initial Release              | David Trost     |
-| v1.1         | February 2025     |                    | - Switch to md - add revisions |                 |
+| v1.1         | February 2025     | March 1, 2025      | - Switch to md - add revisions | David Trost     |
 
 Appendix A: Quick Reference Checklist
 
