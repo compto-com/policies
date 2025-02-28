@@ -2,8 +2,8 @@
 | --------------------- | ----------------------- |
 | **Responsible Party** | David Trost             |
 | **Contact**           | [privacy@compto.com][0] |
-| **Status**            | Under Review            |
-| **Effective Date**    |                         |
+| **Status**            | Approved                |
+| **Effective Date**    | March 1, 2025           |
 | **Revision Date**     | February 2025           |
 
 # Compto Public Benefit Corporation Customer Privacy Policy:
@@ -124,4 +124,4 @@ You have the right to:
 | **Revision** | **Revision Date** | **Effective Date** | **Description of Changes**     | **Approved By** |
 | ------------ | ----------------- | ------------------ | ------------------------------ | --------------- |
 | v1.0         | January 2025      | January 2025       | - Initial Release              | David Trost     |
-| v1.1         | February 2025     |                    | - Switch to md - add revisions |                 |
+| v1.1         | February 2025     | March 1, 2025      | - Switch to md - add revisions | David Trost     |
